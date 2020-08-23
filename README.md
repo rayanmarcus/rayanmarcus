@@ -11,7 +11,7 @@
 - 🖼 Venho aprendendo a criar UI no <a href="https://www.figma.com/" target="_blank">Figma</a>
 - 👨‍💼 Além de desenvolvimento, gosto muito de empreendedorismo
 - ❤ Num futuro próximo, quero criar minha própria startup de tecnologia
-- 😁 Através da minha futura empresa de tecnologia, quero impactar bilhões de pessoas, de forma direta e indireta
+- 😁 Através da minha futura startup de tecnologia, quero impactar bilhões de pessoas, de forma direta e indireta
 
 <hr style="height: 1px;">
 
