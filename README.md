@@ -13,5 +13,5 @@
 - ❤ Num futuro próximo, quero criar minha própria startup de tecnologia
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayanmarcus&show_icons=true&theme=default&hide_border=true" alt="rayanmarcus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayanmarcus&show_icons=true&theme=default&hide_border=false" alt="rayanmarcus" />
 </p>
