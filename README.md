@@ -15,6 +15,11 @@
 
 <hr style="height: 1px;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayanmarcus&show_icons=true&theme=default&hide_border=false" alt="rayanmarcus" />
-</p>
+<center>
+<table width="100%">
+  <tr>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanmarcus&layout=compact&show_icons=true&theme=default&hide_border=false" alt="rayanmarcus"/></td>
+      <td><img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=rayanmarcus&show_icons=true&theme=default&hide_border=false" alt="rayanmarcus"/></td>
+  </tr>  
+</table>
+</center>
