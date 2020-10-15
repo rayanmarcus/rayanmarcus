@@ -9,7 +9,7 @@
 - 💻 Stack favorita → <a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> 💚
 - 👨‍🎓 Estudante de Sistemas de Informação
 - 🎨 Gosto bastante de design
-- 🖼 Venho aprendendo a criar UI no <a href="https://www.figma.com/" target="_blank">Figma</a>
+- 🖼 Venho aprendendo a criar UI no <a href="https://www.figma.com/" target="_blank">Figma</a>. Clique <a href="https://linktr.ee/rayanmarcus">aqui</a> para ver as UI's que eu já criei.
 - 👨‍💼 Além de desenvolvimento, gosto muito de empreendedorismo
 - ❤ Num futuro próximo, quero criar minha própria startup de tecnologia
 - 😁 Através da minha futura startup de tecnologia, quero impactar bilhões de pessoas, de forma direta e indireta
