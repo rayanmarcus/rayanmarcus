@@ -18,8 +18,8 @@
 <center>
 <table width="100%">
   <tr>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanmarcus&layout=compact&show_icons=true&theme=blueberry&hide_border=true" alt="rayanmarcus"/></td>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=rayanmarcus&theme=blueberry&show_icons=true&hide_border=true" alt="rayanmarcus"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanmarcus&layout=compact&show_icons=true&theme=default&hide_border=true" alt="rayanmarcus"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=rayanmarcus&theme=default&show_icons=true&hide_border=true" alt="rayanmarcus"/></td>
   </tr>  
 </table>
 </center>
