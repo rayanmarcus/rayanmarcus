@@ -1,17 +1,33 @@
 ## Olá, me chamo Rayan Marcus :man_technologist:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rayanmarcus)](https://github.com/rayanmarcus)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayanmarcus/)](https://www.linkedin.com/in/rayanmarcus/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanmarcus@gmail.com)](mailto:rayanmarcus@gmail.com)
+<p style="font-size: 24px; margin: 0; padding: 0;">💻 Desenvolvedor Front-End na <a href="https://www.navita.com.br">Navita</a><p>
+<p style="font-size: 24px; margin: 0;">🎓 Cursando Sistemas de Informação 8/8</a></p>
 
-- 👨‍💻 Dev. front end apaixonado por inovação
-- 💻 Stack favorita → <a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> 💚
-- 👨‍🎓 Estudante de Sistemas de Informação
-- 🎨 Gosto bastante de design
-- 🖼 Venho aprendendo a criar UI no <a href="https://www.figma.com/" target="_blank">Figma</a>. Clique <a href="https://linktr.ee/rayanmarcus">aqui</a> para ver as UI's que eu já criei.
-- 👨‍💼 Além de desenvolvimento, gosto muito de empreendedorismo
-- ❤ Num futuro próximo, quero criar minha própria startup de tecnologia
-- 😁 Através da minha futura startup de tecnologia, quero impactar bilhões de pessoas, de forma direta e indireta
+### Linkedin & E-mail 💻
+<p style="display: flex; justify-content: center; width: 100%">
+  <a href="https://www.linkedin.com/in/rayanmarcus">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height=25>
+  </a>
+  <a href="mailto:rayanmarcus@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a>
+</p>
+
+### Linguagens de programação 💻
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Serviços de nuvem e deploy
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-E34F26?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Banco de Bados & Outros 💾
+![MySQL](https://img.shields.io/badge/MySQL-4479a2?style=for-the-badge&logo=mysql&logoColor=white)
+[![Figma](https://img.shields.io/badge/FIGMA-FFF?style=for-the-badge&logo=figma&logoColor=000&link=https://linktr.ee/rayanmarcus)](https://linktr.ee/rayanmarcus)
 
 <hr style="height: 1px;">
 
