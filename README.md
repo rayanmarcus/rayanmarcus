@@ -46,6 +46,6 @@
 <hr style="height: 1px;">
 
 <div align="center">
-  <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanmarcus&layout=compact&show_icons=true&theme=react&hide_border=true" alt="rayanmarcus"/>
+  <img width="400px" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanmarcus&layout=compact&show_icons=true&theme=react&hide_border=true" alt="rayanmarcus"/>
   <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=rayanmarcus&theme=react&show_icons=true&hide_border=true" alt="rayanmarcus"/>
 </div>
