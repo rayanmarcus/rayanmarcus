@@ -1,6 +1,6 @@
 ## Olá, me chamo Rayan Marcus :man_technologist:
 
-<p style="font-size: 24px; margin: 0; padding: 0;">💻 Desenvolvedor Front-End na <a href="https://www.navita.com.br">Navita</a><p>
+<p style="font-size: 24px; margin: 0; padding: 0;">💻 Desenvolvedor Front-End na <a href="https://www.ciandt.com">ciandt</a><p>
 <p style="font-size: 24px; margin: 0;">🎓 Cursando Sistemas de Informação 8/8</a></p>
 
 ### 👱‍♂️ Linkedin & E-mail
