@@ -1,9 +1,10 @@
-## Olá, me chamo Rayan Marcus :man_technologist:
+## Olá, me chamo Rayan Marcus 👋
 
-<p style="font-size: 24px; margin: 0; padding: 0;">💻 Desenvolvedor Front-End na <a href="https://www.ciandt.com">ciandt</a><p>
+### 👨‍💻 Desenvolvedor Front-end 
+
+### 💬 Info & Contatos
+<p style="font-size: 24px; margin: 0; padding: 0;">💻 Trabalho na <a href="https://www.ciandt.com">ciandt</a><p>
 <p style="font-size: 24px; margin: 0;">🎓 Cursando Sistemas de Informação 8/8</a></p>
-
-### 💬 Contatos
 <p style="display: flex; justify-content: center; width: 100%">
   <a href="https://www.linkedin.com/in/rayanmarcus">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height=25>
