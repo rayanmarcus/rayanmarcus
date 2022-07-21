@@ -33,10 +33,11 @@
 
 
 ### ☁️ Nuvem, deploy & O.S
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-E34F26?style=for-the-badge&logo=jenkins&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-E95420?style=for-the-badge&logo=apple&logoColor=white)
 
 
 ### 💾 Banco de Bados & Outros
