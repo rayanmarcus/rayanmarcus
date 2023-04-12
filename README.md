@@ -16,7 +16,7 @@
 
 ### 💬 Want to know more about me? Take a look at my resume:
 <p style="display: flex; justify-content: center; width: 100%">
-  <a href="https://drive.google.com/drive/folders/0B1wA83dOxqzjanhNS0Z4VXV3dmM?resourcekey=0-g-BmPByqwSodKZXoe3XPjQ&usp=share_link">
+  <a href="https://drive.google.com/drive/folders/0B1wA83dOxqzjanhNS0Z4VXV3dmM?resourcekey=0-g-BmPByqwSodKZXoe3XPjQ&usp=share_link" target="_blank">
     📄 Resume
   </a>
   <br>
