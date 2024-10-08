@@ -14,14 +14,6 @@
   <strong>rayanmarcus@gmail.com</strong>
 </p>
 
-### 💬 Want to know more about me? Take a look at my resume:
-<p style="display: flex; justify-content: center; width: 100%">
-  <a href="https://drive.google.com/drive/folders/0B1wA83dOxqzjanhNS0Z4VXV3dmM?resourcekey=0-g-BmPByqwSodKZXoe3XPjQ&usp=share_link" target="_blank">
-    📄 Resume in English and Portuguese
-  </a>
-  <br>
-</p>
-
 ### 💻 Programming Languages and Frameworks/Libraries - Front End
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
